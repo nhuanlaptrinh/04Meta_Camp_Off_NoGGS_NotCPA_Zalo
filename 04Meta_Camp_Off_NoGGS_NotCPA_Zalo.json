@@ -1,5 +1,5 @@
 {
-  "name": "04. Tat_Lon_8K_No_KQ",
+  "name": "04Meta_Camp_Off_NoGGS_NotCPA_Zalo",
   "nodes": [
     {
       "parameters": {
@@ -113,8 +113,8 @@
       "type": "n8n-nodes-base.stickyNote",
       "typeVersion": 1,
       "position": [
-        -712,
-        1356
+        -720,
+        1360
       ],
       "id": "8ae95a9e-23cb-4d7f-a6b4-e0193b557dba",
       "name": "Sticky Note"
@@ -234,7 +234,7 @@
             {
               "id": "1dda0de4-888e-4d16-9892-0491110769e8",
               "name": "Nguong_CPA",
-              "value": 10000,
+              "value": 13000,
               "type": "number"
             },
             {
@@ -246,7 +246,7 @@
             {
               "id": "fa677240-82bc-4d7f-8920-075213b9bdf2",
               "name": "Cam_Chi_Tieu_Nguong_Duoi",
-              "value": 15000,
+              "value": 10000,
               "type": "number"
             },
             {
@@ -595,7 +595,7 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        2272,
+        2256,
         1760
       ],
       "id": "28e7c400-3701-4f5c-b397-e305d7d6ee8e",
@@ -651,7 +651,7 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        1040,
+        1024,
         1936
       ],
       "id": "9909a12e-0574-47ba-ba74-bad459e17341",
@@ -943,7 +943,7 @@
   "settings": {
     "executionOrder": "v1"
   },
-  "versionId": "cb253481-6c63-4ed4-bf74-f79b58ad42d8",
+  "versionId": "588d0918-3fe6-4de3-8ed2-1532a3445de6",
   "meta": {
     "instanceId": "8ae9064574590f4bef62fe6c8cafaae52a5a90dd40cb184103af1049753a2d5d"
   },
